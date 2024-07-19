@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/989583976539239504/3a01b48dce0c43838e5dfd95ce2bddd8/artifacts
+end_time: 1721429698426
+entry_point_name: ''
+experiment_id: '989583976539239504'
+lifecycle_stage: active
+run_id: 3a01b48dce0c43838e5dfd95ce2bddd8
+run_name: rebellious-fawn-607
+run_uuid: 3a01b48dce0c43838e5dfd95ce2bddd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721429698193
+status: 4
+tags: []
+user_id: Asus
