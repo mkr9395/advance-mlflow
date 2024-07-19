@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/989583976539239504/c9d811b286d046e4b2af2661ff92de5f/artifacts
+end_time: 1721425731008
+entry_point_name: ''
+experiment_id: '989583976539239504'
+lifecycle_stage: active
+run_id: c9d811b286d046e4b2af2661ff92de5f
+run_name: popular-crow-894
+run_uuid: c9d811b286d046e4b2af2661ff92de5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721425726253
+status: 3
+tags: []
+user_id: Asus

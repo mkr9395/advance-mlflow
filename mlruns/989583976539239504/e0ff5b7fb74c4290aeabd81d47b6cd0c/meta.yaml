@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/989583976539239504/e0ff5b7fb74c4290aeabd81d47b6cd0c/artifacts
+end_time: 1721423805697
+entry_point_name: ''
+experiment_id: '989583976539239504'
+lifecycle_stage: active
+run_id: e0ff5b7fb74c4290aeabd81d47b6cd0c
+run_name: rare-penguin-532
+run_uuid: e0ff5b7fb74c4290aeabd81d47b6cd0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721423805660
+status: 4
+tags: []
+user_id: Asus

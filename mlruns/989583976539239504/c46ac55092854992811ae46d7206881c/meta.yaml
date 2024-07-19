@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/989583976539239504/c46ac55092854992811ae46d7206881c/artifacts
+end_time: 1721425551726
+entry_point_name: ''
+experiment_id: '989583976539239504'
+lifecycle_stage: active
+run_id: c46ac55092854992811ae46d7206881c
+run_name: lyrical-conch-430
+run_uuid: c46ac55092854992811ae46d7206881c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721425551314
+status: 4
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/989583976539239504/0adca776521a4c54a6373ca3104f6f60/artifacts
+end_time: 1721424896994
+entry_point_name: ''
+experiment_id: '989583976539239504'
+lifecycle_stage: active
+run_id: 0adca776521a4c54a6373ca3104f6f60
+run_name: stately-ant-909
+run_uuid: 0adca776521a4c54a6373ca3104f6f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721424896738
+status: 4
+tags: []
+user_id: Asus
