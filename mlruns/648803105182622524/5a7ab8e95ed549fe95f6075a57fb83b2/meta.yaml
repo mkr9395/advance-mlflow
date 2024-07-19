@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/648803105182622524/5a7ab8e95ed549fe95f6075a57fb83b2/artifacts
+end_time: 1721430766592
+entry_point_name: ''
+experiment_id: '648803105182622524'
+lifecycle_stage: active
+run_id: 5a7ab8e95ed549fe95f6075a57fb83b2
+run_name: victorious-ox-704
+run_uuid: 5a7ab8e95ed549fe95f6075a57fb83b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721430763240
+status: 3
+tags: []
+user_id: Asus
