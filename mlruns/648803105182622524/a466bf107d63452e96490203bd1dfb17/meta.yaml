@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/648803105182622524/a466bf107d63452e96490203bd1dfb17/artifacts
+end_time: 1721466777162
+entry_point_name: ''
+experiment_id: '648803105182622524'
+lifecycle_stage: active
+run_id: a466bf107d63452e96490203bd1dfb17
+run_name: casual-wren-796
+run_uuid: a466bf107d63452e96490203bd1dfb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721466777120
+status: 3
+tags: []
+user_id: Asus

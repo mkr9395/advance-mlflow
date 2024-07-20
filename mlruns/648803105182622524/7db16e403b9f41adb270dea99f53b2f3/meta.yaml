@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/648803105182622524/7db16e403b9f41adb270dea99f53b2f3/artifacts
+end_time: 1721466776900
+entry_point_name: ''
+experiment_id: '648803105182622524'
+lifecycle_stage: active
+run_id: 7db16e403b9f41adb270dea99f53b2f3
+run_name: casual-quail-708
+run_uuid: 7db16e403b9f41adb270dea99f53b2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721466776865
+status: 3
+tags: []
+user_id: Asus

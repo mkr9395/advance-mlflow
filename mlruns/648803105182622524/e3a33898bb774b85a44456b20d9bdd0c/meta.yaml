@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/648803105182622524/e3a33898bb774b85a44456b20d9bdd0c/artifacts
+end_time: 1721466776808
+entry_point_name: ''
+experiment_id: '648803105182622524'
+lifecycle_stage: active
+run_id: e3a33898bb774b85a44456b20d9bdd0c
+run_name: masked-worm-606
+run_uuid: e3a33898bb774b85a44456b20d9bdd0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721466776769
+status: 3
+tags: []
+user_id: Asus

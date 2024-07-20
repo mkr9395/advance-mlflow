@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/648803105182622524/0a0f82414a6d4caf9f10774e01c3d989/artifacts
+end_time: 1721466776932
+entry_point_name: ''
+experiment_id: '648803105182622524'
+lifecycle_stage: active
+run_id: 0a0f82414a6d4caf9f10774e01c3d989
+run_name: fearless-crow-958
+run_uuid: 0a0f82414a6d4caf9f10774e01c3d989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721466776903
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_CampusX/MLops%20Revisited/mlflow-advance/mlruns/648803105182622524/91098ffe2a444df6a88cc27f0f2f8b5e/artifacts
+end_time: 1721466777120
+entry_point_name: ''
+experiment_id: '648803105182622524'
+lifecycle_stage: active
+run_id: 91098ffe2a444df6a88cc27f0f2f8b5e
+run_name: fortunate-robin-686
+run_uuid: 91098ffe2a444df6a88cc27f0f2f8b5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721466777086
+status: 3
+tags: []
+user_id: Asus
